@@ -111,7 +111,6 @@ Pneumonia-Detection/
 ├── .gitignore         # Git ignore file
 └── README.md          # This file
 
-Note: chest_xray/ (dataset) is excluded from version control due to large file size.
 ```
 
 ---
