@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Dataset (too large to push)
+chest_xray/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,14 @@
+# ============================================================
+# Pneumonia Detection - Python Dependencies
+# COMP 20037 - Artificial Intelligence and Deep Learning
+# ============================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+# ============================================================
+
+tensorflow==2.15.0
+numpy==1.26.4
+matplotlib==3.8.4
+scikit-learn==1.4.2
+seaborn==0.13.2
+Pillow==10.3.0
